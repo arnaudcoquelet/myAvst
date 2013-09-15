@@ -1,0 +1,12 @@
+{
+//Name=Default
+//Author=arnaud coquelet
+//CreationDate=2012/07/22
+    name : "Default",
+    type : "Default",
+	
+	
+    "webapp" : {
+		"myAVST" : ["main.css","main8082.css","icons.css"]
+   }
+}

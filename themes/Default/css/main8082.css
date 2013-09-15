@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+
+.webapp.myAVST.getView .ContainerTitle .ContainerTitleContent{
+	text-align: right;
+}
+
+.webapp.myAVST.getView .PresentationList .PresentationListContent{
+	font-size: 18px;
+	color: #009DD2;
+}
+
+.webapp.myAVST.getView .PresentationListItem{
+	height: 30px;
+}

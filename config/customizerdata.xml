@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customizerdata>
+<metadata>
+	<application-data>
+		<keys>
+			<!--Declare Buttons visible in Homepage. -->
+			<key id="HomepageProgKeys">
+				<values>
+	<!--
+Format: 	<value>{ 'id':'...'     		, 'label':'...'   		, 'icon':'...'    }</value>
+Example: 	<value>{ 'id': 'MYWEBAPP_BTN'   , 'label': 'MyWebapp'   , 'icon': 'mywebapp-application'    }</value>
+-->
+			</values>
+			</key>
+
+			<!-- Declare Preview  visible in Homepage. -->
+			<key id="HomepagePreviews">
+				<values>
+	<!--
+Format: 	<value>preview displayer;title;setting enabling </value>
+Example: 	<value> webapp.mywebapp.getMywebappPreview;My webapp;EnableMywebappPreview </value>
+-->
+				</values>
+			</key>
+			<!-- Declare Actions  which can be programmed in a programmed key. -->
+			<key id="HomepageProgKeysActions">
+				<values>
+	<!--
+Format: 	<value>{ 'action':'...'     	, 'webappName':'...'   		, 'icon':'...'    }</value>
+Example: 	<value>{ 'action': 'my-action'  , 'webappName': 'mywebapp'  , 'icon': 'mywebapp-myaction' }</value>
+-->
+				</values>
+			</key>
+		</keys>
+	</application-data>
+</metadata>
+</customizerdata>

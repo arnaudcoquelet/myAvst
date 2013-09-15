@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/*New/Saved VoiceMail icons*/
+.myAVST-voicemail-New{
+background-image:url('../images/myAVST-voicemail-new-32.png');
+}
+.myAVST-voicemail-Saved{
+background-image:url('../images/myAVST-voicemail-saved-32.png');
+}
+
+//Notification
+.myAVST-voicemail-Notification{
+{
+	background-image:url('myAVST_notificaton_normal_32.png');
+}
